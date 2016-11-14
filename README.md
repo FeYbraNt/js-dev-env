@@ -5,3 +5,4 @@ My Javascript Development Environment
 * **Development Web Server**: Localtunnel
 * **Automation**: Express
 * **Transpiler**: Babel
+* **Bundler**: Webpack
