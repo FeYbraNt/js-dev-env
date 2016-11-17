@@ -6,3 +6,4 @@ My Javascript Development Environment
 * **Automation**: Express
 * **Transpiler**: Babel
 * **Bundler**: Webpack
+* **Linter**: ESLint
